@@ -1,7 +1,6 @@
 name: Flutter Nightly Build
 
 on:
-  schedule:
     # schedule build every night
   workflow_dispatch:
 
